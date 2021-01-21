@@ -1,4 +1,5 @@
-### Hi there 👋
+# Bio
+I am a science and computer enthusiast, I have worked on many subjects. I did my bachelor degree at Trois-Rivières in Medical Biology,  followed by a Master in Cellular Biology and Biophysics in the same University. I worked on bioactive paper using bacteriophages against E.coli. After, I went to the Sherbrooke University where I had the chance to use my computer skill in a PhD in Chemical Engineering. The work was focused on foam in bioreactors, and I add a lot of fun working with open source CFD software (OpenFOAM).
 
 <!--
 **Spationaute/spationaute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
